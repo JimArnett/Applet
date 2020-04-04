@@ -24,7 +24,7 @@ public class Wheel : MonoBehaviour
         
     }
 
-    private IEnumerator Spin(){
+    public IEnumerator Spin(){
         coroutineAllowed = false;
         randomValue = Random.Range(20,30);
         timeInterval = 0.1f;
@@ -72,6 +72,10 @@ public class Wheel : MonoBehaviour
                 break;
         }
         coroutineAllowed = true;
+    }
+
+    public void spin(){
+        StartCoroutine(Spin());
     }
 
 }
