@@ -19,7 +19,7 @@ public class SceneSwap : MonoBehaviour
     public void SwapButton()
     {
         Scene scene = SceneManager.GetActiveScene();
-        if (scene.name == "SampleScene"){
+        if (scene.name == "MatthewScene"){
             SceneManager.LoadScene(1);
         }
         if (scene.name == "ListScene"){
