@@ -8,6 +8,8 @@ public class ButtonToggles : MonoBehaviour
     public GameObject toggleObjectTwo;
     public GameObject toggleObjectThree;
     public GameObject toggleObjectFour;
+    public GameObject toggleObjectFive;
+    public GameObject toggleObjectSix;
 
     public GameObject[] objects;
     // Start is called before the first frame update
@@ -58,5 +60,21 @@ public class ButtonToggles : MonoBehaviour
 
     public void ToggleFour(){
         toggleObjectFour.SetActive(true);
+    }
+
+    public void CloseWindowFive(){
+        toggleObjectFive.SetActive(false);
+    }
+
+    public void ToggleFive(){
+        toggleObjectFive.SetActive(true);
+    }
+
+    public void CloseWindowSix(){
+        toggleObjectSix.SetActive(false);
+    }
+
+    public void ToggleSix(){
+        toggleObjectSix.SetActive(true);
     }
 }
