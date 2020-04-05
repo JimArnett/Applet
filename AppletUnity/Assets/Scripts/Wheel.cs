@@ -10,12 +10,15 @@ public class Wheel : MonoBehaviour
     private bool coroutineAllowed;
     private int finalAngle;
 
+    public GameObject panel;
+
     [SerializeField]
     private Text winText;
     // Start is called before the first frame update
     void Start()
     {
         coroutineAllowed = true;
+        panel.gameObject.SetActive(false);
     }
 
     // Update is called once per frame
@@ -47,28 +50,36 @@ public class Wheel : MonoBehaviour
 
         switch(finalAngle){
             case 0:
-                winText.text = "You win 1";
+                winText.text = "ACTIVITY 1";
+                panel.gameObject.SetActive(true);
                 break;
             case 45:
-                winText.text = "You win 2";
+                winText.text = "ACTIVITY 2";
+                panel.gameObject.SetActive(true);
                 break;
             case 90:
-                winText.text = "You win 3";
+                winText.text = "ACTIVITY 3";
+                panel.gameObject.SetActive(true);
                 break;
             case 135:
-                winText.text = "You win 4";
+                winText.text = "ACTIVITY 4";
+                panel.gameObject.SetActive(true);
                 break;
             case 180:
-                winText.text = "You win 5";
+                winText.text = "ACTIVITY 5";
+                panel.gameObject.SetActive(true);
                 break;
             case 225:
-                winText.text = "You win 6";
+                winText.text = "ACTIVITY 6";
+                panel.gameObject.SetActive(true);
                 break;
             case 270:
-                winText.text = "You win 7";
+                winText.text = "ACTIVITY 7";
+                panel.gameObject.SetActive(true);
                 break;
             case 315:
-                winText.text = "You win 8";
+                winText.text = "ACTIVITY 8";
+                panel.gameObject.SetActive(true);
                 break;
         }
         coroutineAllowed = true;
@@ -78,4 +89,7 @@ public class Wheel : MonoBehaviour
         StartCoroutine(Spin());
     }
 
+    public void closePanel(){
+        panel.gameObject.SetActive(false);
+    }
 }
