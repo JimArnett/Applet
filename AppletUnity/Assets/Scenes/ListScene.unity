@@ -154,7 +154,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -74, y: 110}
+  m_AnchoredPosition: {x: -74, y: 102}
   m_SizeDelta: {x: 347.9, y: 98.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &24679446
@@ -176,7 +176,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b34a92a291541dc4daab02a8d19a9a94, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -919,7 +919,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -35.999878, y: 7.0000305}
+  m_AnchoredPosition: {x: -35.999878, y: -7}
   m_SizeDelta: {x: 453.7, y: 125.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &533773619
@@ -941,7 +941,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b34a92a291541dc4daab02a8d19a9a94, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -953,8 +953,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<b>Benefits of meditation:</b>\r\nImproves emotional health\r\nExercises
-    mindfulness for self-improvement\r\nImproves sleep patterns\r\n"
+  m_Text: "<b>Benefits of going outside:\r</b>\nNature, fresh air, and sunlight improve
+    brain function\r\nIncreases vitamin D intake\r\nReduces stress\r\nBoosts creativity\r\n"
 --- !u!222 &533773620
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1164,7 +1164,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 41ffe3cfc4958984daa91fb734032276, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 8
     m_FontStyle: 0
     m_BestFit: 0
@@ -1235,7 +1235,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -79, y: -147}
+  m_AnchoredPosition: {x: -79, y: -173}
   m_SizeDelta: {x: 367.8, y: 153.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &842434785
@@ -1257,7 +1257,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 41ffe3cfc4958984daa91fb734032276, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 8
     m_FontStyle: 0
     m_BestFit: 0
@@ -1269,11 +1269,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<i>DoYogaWithMe\r</i>\nFree access to multiple kinds of guided meditation
-    videos\r\n\n\r\n<i>Great Meditation (YouTube)\r</i>\nTons of free videos to choose
-    from, including 10 minute and 20 minute meditations\r\n\n\r\n<i>Insight Timer\r</i>\nOffers
-    meditations based on targeted categories, such as for anxiety, sleep, and stress\r\n\r\n<i>Calm\r</i>\nIncludes
-    breathing exercises, sleeping guides and more!\r\n\n"
+  m_Text: "<i>CraftsByAmanda\r (YouTube)</i>\nCraftsByAmanda is a blog that posts
+    easy, home-y craft ideas. If you\u2019re one for making things to decorate your
+    home, this is a great website for you.\r\n\r\n<i>HomeSthetics Garden Projects\r</i>\nThis
+    blog post includes 25 easy garden DIY\u2019s for you to start your own garden!\r\n\r\n<i>Pinterest\r</i>\nPinterest
+    is a great website to find inspiration for creating things. Just search for DIY
+    projects/art inspiration for your next idea!\r\n\r\n\n\n"
 --- !u!222 &842434786
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1316,7 +1317,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -73.99997, y: 110.00003}
+  m_AnchoredPosition: {x: -73.99997, y: 102}
   m_SizeDelta: {x: 347.9, y: 98.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &889905280
@@ -1338,7 +1339,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b34a92a291541dc4daab02a8d19a9a94, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -1350,9 +1351,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Calm your mind and let the soul speak! Meditation will draw your focus
-    inward, taking any worrisome thoughts away from the external circumstances in
-    the world. \r\n"
+  m_Text: "Flex your creativity and brain function by making something. This can be
+    a craft, DIY home project, or a digital project\u2026 anything that boosts your
+    imagination!\r\n"
 --- !u!222 &889905281
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1417,7 +1418,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b34a92a291541dc4daab02a8d19a9a94, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -1572,7 +1573,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 41ffe3cfc4958984daa91fb734032276, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 8
     m_FontStyle: 0
     m_BestFit: 0
@@ -1634,8 +1635,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -35.999878, y: 7.0000305}
-  m_SizeDelta: {x: 453.7, y: 125.8}
+  m_AnchoredPosition: {x: -238.4, y: -22}
+  m_SizeDelta: {x: 205.7, y: 125.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &981023549
 MonoBehaviour:
@@ -1656,7 +1657,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b34a92a291541dc4daab02a8d19a9a94, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -1668,8 +1669,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<b>Benefits of meditation:</b>\r\nImproves emotional health\r\nExercises
-    mindfulness for self-improvement\r\nImproves sleep patterns\r\n"
+  m_Text: "<b>Benefits of video chatting:\r</b>\nBoosts your personal connection\r\nSharing
+    laughter\r\nExpressing your ideas & frustrations\r\nEases tensions\r\n\n"
 --- !u!222 &981023550
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1781,7 +1782,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -79, y: -147}
+  m_AnchoredPosition: {x: -79, y: -153}
   m_SizeDelta: {x: 367.8, y: 153.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1101488521
@@ -1803,7 +1804,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 41ffe3cfc4958984daa91fb734032276, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 8
     m_FontStyle: 0
     m_BestFit: 0
@@ -1815,11 +1816,19 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<i>DoYogaWithMe\r</i>\nFree access to multiple kinds of guided meditation
-    videos\r\n\n\r\n<i>Great Meditation (YouTube)\r</i>\nTons of free videos to choose
-    from, including 10 minute and 20 minute meditations\r\n\n\r\n<i>Insight Timer\r</i>\nOffers
-    meditations based on targeted categories, such as for anxiety, sleep, and stress\r\n\r\n<i>Calm\r</i>\nIncludes
-    breathing exercises, sleeping guides and more!\r\n\n"
+  m_Text: 'Walk for 10 minutes
+
+
+    Deep breathe for 10 minutes
+
+
+    Sunbathe
+
+
+    Workout Outside
+
+
+'
 --- !u!222 &1101488522
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2079,22 +2088,22 @@ PrefabInstance:
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.r
-      value: 0.5731132
+      value: 0.7019608
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.g
-      value: 0.764151
+      value: 0.9019608
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.b
-      value: 0.6779967
+      value: 0.8117647
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.a
-      value: 1
+      value: 0.7058824
       objectReference: {fileID: 0}
     - target: {fileID: 7065750425309287114, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
@@ -2218,7 +2227,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -79, y: -147}
+  m_AnchoredPosition: {x: -79, y: -155}
   m_SizeDelta: {x: 367.8, y: 153.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1329886093
@@ -2240,7 +2249,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 41ffe3cfc4958984daa91fb734032276, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 8
     m_FontStyle: 0
     m_BestFit: 0
@@ -2252,11 +2261,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<i>DoYogaWithMe\r</i>\nFree access to multiple kinds of guided meditation
-    videos\r\n\n\r\n<i>Great Meditation (YouTube)\r</i>\nTons of free videos to choose
-    from, including 10 minute and 20 minute meditations\r\n\n\r\n<i>Insight Timer\r</i>\nOffers
-    meditations based on targeted categories, such as for anxiety, sleep, and stress\r\n\r\n<i>Calm\r</i>\nIncludes
-    breathing exercises, sleeping guides and more!\r\n\n"
+  m_Text: "<i>Facetime\r\n\nZoom\r\n\nSkype\r\n\nFacebook Messenger\r\n\nWhatsApp\r\n\nGoogle
+    Hangout\r</i>\n"
 --- !u!222 &1329886094
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2582,8 +2588,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -80, y: 85}
-  m_SizeDelta: {x: 363.2, y: 125.8}
+  m_AnchoredPosition: {x: -80, y: 94}
+  m_SizeDelta: {x: 363.2, y: 91.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1420267335
 MonoBehaviour:
@@ -2604,7 +2610,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b34a92a291541dc4daab02a8d19a9a94, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -2683,7 +2689,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b34a92a291541dc4daab02a8d19a9a94, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -2813,35 +2819,76 @@ PrefabInstance:
       propertyPath: m_Text
       value: close
       objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841691, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 179
+      objectReference: {fileID: 0}
     - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Text
-      value: Fly
+      value: Go Outside
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 41ffe3cfc4958984daa91fb734032276,
+        type: 3}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.33333334
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.29411766
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.3764706
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.r
-      value: 0.5731132
+      value: 0.7019608
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.g
-      value: 0.764151
+      value: 0.9019608
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.b
-      value: 0.6779967
+      value: 0.8117647
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.a
-      value: 1
+      value: 0.7058824
       objectReference: {fileID: 0}
     - target: {fileID: 7065750425309287114, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Name
       value: TextPopUp 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750425309287114, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7065750425309287115, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
@@ -2898,7 +2945,28 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 7065750425593299894, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.80784315
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750425593299894, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.9764706
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750425593299894, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.8745098
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750425593299894, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.5882353
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 7065750423787841692, guid: dd8cdc4330a814a9c96f13fa5fc6cecc, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: dd8cdc4330a814a9c96f13fa5fc6cecc, type: 3}
 --- !u!1 &1514992751 stripped
 GameObject:
@@ -3317,7 +3385,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 41ffe3cfc4958984daa91fb734032276, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 8
     m_FontStyle: 0
     m_BestFit: 0
@@ -3452,35 +3520,76 @@ PrefabInstance:
       propertyPath: m_Text
       value: close
       objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841691, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 176
+      objectReference: {fileID: 0}
     - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Text
-      value: Sleep
+      value: Create Something
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 41ffe3cfc4958984daa91fb734032276,
+        type: 3}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.33333334
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.29411766
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.3764706
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.r
-      value: 0.5731132
+      value: 0.7019608
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.g
-      value: 0.764151
+      value: 0.9019608
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.b
-      value: 0.6779967
+      value: 0.8117647
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.a
-      value: 1
+      value: 0.7058824
       objectReference: {fileID: 0}
     - target: {fileID: 7065750425309287114, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Name
       value: TextPopUp 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750425309287114, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7065750425309287115, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
@@ -3537,7 +3646,28 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 7065750425593299894, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750425593299894, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.9137255
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750425593299894, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.87058824
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750425593299894, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.5882353
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 7065750423787841692, guid: dd8cdc4330a814a9c96f13fa5fc6cecc, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: dd8cdc4330a814a9c96f13fa5fc6cecc, type: 3}
 --- !u!4 &1695969681 stripped
 Transform:
@@ -3662,8 +3792,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -73.99997, y: 110.00003}
-  m_SizeDelta: {x: 347.9, y: 98.2}
+  m_AnchoredPosition: {x: -80.2, y: 108}
+  m_SizeDelta: {x: 340.3, y: 63.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1825321946
 MonoBehaviour:
@@ -3684,7 +3814,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b34a92a291541dc4daab02a8d19a9a94, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -3696,9 +3826,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Calm your mind and let the soul speak! Meditation will draw your focus
-    inward, taking any worrisome thoughts away from the external circumstances in
-    the world. \r\n"
+  m_Text: Connect with a loved one and spend time with them, virtually! Video chatting
+    and having a conversation is a great way to kill time and catch up with someone
+    while far apart.
 --- !u!222 &1825321947
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3814,35 +3944,76 @@ PrefabInstance:
       propertyPath: m_Text
       value: close
       objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841691, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 181
+      objectReference: {fileID: 0}
     - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Text
-      value: Zoom
+      value: Video Chat
       objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.33333334
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.29411766
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.3764706
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750423787841693, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 41ffe3cfc4958984daa91fb734032276,
+        type: 3}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.r
-      value: 0.5731132
+      value: 0.7019608
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.g
-      value: 0.764151
+      value: 0.9019608
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.b
-      value: 0.6779967
+      value: 0.8117647
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.a
-      value: 1
+      value: 0.7058824
       objectReference: {fileID: 0}
     - target: {fileID: 7065750425309287114, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Name
       value: TextPopUp 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750425309287114, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7065750425309287115, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
@@ -3899,7 +4070,28 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 7065750425593299894, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.8784314
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750425593299894, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.98039216
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750425593299894, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.8666667
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065750425593299894, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.5882353
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 7065750423787841692, guid: dd8cdc4330a814a9c96f13fa5fc6cecc, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: dd8cdc4330a814a9c96f13fa5fc6cecc, type: 3}
 --- !u!1 &1930147757
 GameObject:
@@ -4018,7 +4210,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -73.99997, y: 110.00003}
+  m_AnchoredPosition: {x: -73.99997, y: 105}
   m_SizeDelta: {x: 347.9, y: 98.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1967885594
@@ -4040,7 +4232,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b34a92a291541dc4daab02a8d19a9a94, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -4052,9 +4244,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Calm your mind and let the soul speak! Meditation will draw your focus
-    inward, taking any worrisome thoughts away from the external circumstances in
-    the world. \r\n"
+  m_Text: "Get some fresh air and vitamin D by going outside. This can be in your
+    backyard or nearby park, as long as you remain a distance of 6 feet apart in public!\r\n"
 --- !u!222 &1967885595
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4097,7 +4288,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -35.999878, y: 7.0000305}
+  m_AnchoredPosition: {x: -35.999878, y: -14}
   m_SizeDelta: {x: 453.7, y: 125.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2010234308
@@ -4119,7 +4310,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b34a92a291541dc4daab02a8d19a9a94, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -4131,8 +4322,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<b>Benefits of meditation:</b>\r\nImproves emotional health\r\nExercises
-    mindfulness for self-improvement\r\nImproves sleep patterns\r\n"
+  m_Text: "<b>Benefits of going outside:\r</b>\nNature, fresh air, and sunlight improve
+    brain function\r\nIncreases vitamin D intake\r\nReduces stress\r\nBoosts creativity\r\n"
 --- !u!222 &2010234309
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4421,22 +4612,22 @@ PrefabInstance:
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.r
-      value: 0.5731132
+      value: 0.7019608
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.g
-      value: 0.764151
+      value: 0.9019608
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.b
-      value: 0.6779967
+      value: 0.8117647
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.a
-      value: 1
+      value: 0.7058824
       objectReference: {fileID: 0}
     - target: {fileID: 7065750425309287114, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
@@ -4582,7 +4773,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b34a92a291541dc4daab02a8d19a9a94, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -4672,7 +4863,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: b34a92a291541dc4daab02a8d19a9a94, type: 3}
+    m_Font: {fileID: 12800000, guid: 5d86f1668b378f341ae2a99d40e998c1, type: 3}
     m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
@@ -4846,22 +5037,22 @@ PrefabInstance:
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.r
-      value: 0.5731132
+      value: 0.7019608
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.g
-      value: 0.764151
+      value: 0.9019608
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.b
-      value: 0.6779967
+      value: 0.8117647
       objectReference: {fileID: 0}
     - target: {fileID: 7065750424787175814, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
       propertyPath: m_Color.a
-      value: 1
+      value: 0.7058824
       objectReference: {fileID: 0}
     - target: {fileID: 7065750425309287114, guid: dd8cdc4330a814a9c96f13fa5fc6cecc,
         type: 3}
