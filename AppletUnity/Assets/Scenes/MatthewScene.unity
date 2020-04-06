@@ -418,7 +418,11 @@ RectTransform:
   m_LocalScale: {x: 0.83072, y: 0.83072, z: 0.83072}
   m_Children:
   - {fileID: 1515041987}
+<<<<<<< HEAD
   - {fileID: 74412897}
+=======
+  - {fileID: 1729366071}
+>>>>>>> parent of a8ec457... t
   - {fileID: 1722768679}
   - {fileID: 1927568775}
   m_Father: {fileID: 915251132}
@@ -561,6 +565,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panel: {fileID: 280735177}
+  Description: {fileID: 1729366069}
   winText: {fileID: 1515041988}
 --- !u!1 &915251128
 GameObject:
@@ -1242,7 +1247,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1722768678}
   m_CullTransparentMesh: 0
-<<<<<<< HEAD
 --- !u!1 &1729366068
 GameObject:
   m_ObjectHideFlags: 0
@@ -1320,8 +1324,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0.000031471, y: -0.0000066757}
   m_SizeDelta: {x: 359.74, y: 110.25}
   m_Pivot: {x: 0.5, y: 0.5}
-=======
->>>>>>> 1584bca907e7d738ced08b1f2766b3e171104eaf
 --- !u!1 &1784546049
 GameObject:
   m_ObjectHideFlags: 0
