@@ -35,9 +35,10 @@ MonoBehaviour:
 =======
     width: 1536
     height: 731
-  m_MinSize: {x: 683, y: 494}
-  m_MaxSize: {x: 14004, y: 14044}
+  m_MinSize: {x: 679, y: 472}
+  m_MaxSize: {x: 14000, y: 14022}
   vertical: 0
+<<<<<<< HEAD
   controlID: 32550
 >>>>>>> 1584bca907e7d738ced08b1f2766b3e171104eaf
 =======
@@ -53,6 +54,13 @@ MonoBehaviour:
 =======
   controlID: 5535
 >>>>>>> parent of 9697cdb... push
+=======
+<<<<<<< HEAD
+  controlID: 28644
+=======
+  controlID: 19916
+>>>>>>> 6e023fb96bb02f68fc5f8e1de2d3c6d01ec810ff
+>>>>>>> parent of c903e67... Revert "Revert "Activity Page Complete""
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,9 +177,10 @@ MonoBehaviour:
 =======
     width: 1089
     height: 731
-  m_MinSize: {x: 406, y: 494}
-  m_MaxSize: {x: 10002, y: 14044}
+  m_MinSize: {x: 404, y: 472}
+  m_MaxSize: {x: 10000, y: 14022}
   vertical: 1
+<<<<<<< HEAD
   controlID: 32516
 >>>>>>> 1584bca907e7d738ced08b1f2766b3e171104eaf
 =======
@@ -187,6 +196,13 @@ MonoBehaviour:
 =======
   controlID: 5512
 >>>>>>> parent of 9697cdb... push
+=======
+<<<<<<< HEAD
+  controlID: 28645
+=======
+  controlID: 19917
+>>>>>>> 6e023fb96bb02f68fc5f8e1de2d3c6d01ec810ff
+>>>>>>> parent of c903e67... Revert "Revert "Activity Page Complete""
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -222,9 +238,10 @@ MonoBehaviour:
 =======
     width: 1089
     height: 447
-  m_MinSize: {x: 406, y: 222}
-  m_MaxSize: {x: 8006, y: 4022}
+  m_MinSize: {x: 404, y: 222}
+  m_MaxSize: {x: 8004, y: 4022}
   vertical: 0
+<<<<<<< HEAD
   controlID: 32480
 >>>>>>> 1584bca907e7d738ced08b1f2766b3e171104eaf
 =======
@@ -240,6 +257,13 @@ MonoBehaviour:
 =======
   controlID: 5513
 >>>>>>> parent of 9697cdb... push
+=======
+<<<<<<< HEAD
+  controlID: 28646
+=======
+  controlID: 19891
+>>>>>>> 6e023fb96bb02f68fc5f8e1de2d3c6d01ec810ff
+>>>>>>> parent of c903e67... Revert "Revert "Activity Page Complete""
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -312,6 +336,7 @@ MonoBehaviour:
     m_TreeViewState:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       scrollPos: {x: 0, y: 581}
 =======
       scrollPos: {x: 0, y: 0}
@@ -335,6 +360,16 @@ MonoBehaviour:
 =======
       m_ExpandedIDs: f0f1ffff32f3ffff6ef7ffff3afaffff4afbffff043d0000163d00008e410000c6420000d8420000fc420000
 >>>>>>> parent of 9697cdb... push
+=======
+      scrollPos: {x: 0, y: 309}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+<<<<<<< HEAD
+      m_ExpandedIDs: 062cffffae36ffffe037ffffc6efffff7ef1ffff28f2ffffbef4ffff2ef6ffffd0f6fffff0f6ffff14f7ffff80f8ffff50f9ffff72fbffff1c3600002a360000483b0000843b00001a6b0000
+=======
+      m_ExpandedIDs: cef4fffffaf4ffff26f5ffff52f5ffff7ef5ffffaaf5ffffb8f5ffff9af8ffff84f9ffff42370000723a0000763a0000823a0000a03a0000c23a0000ec3a0000003b00000c3b0000
+>>>>>>> 6e023fb96bb02f68fc5f8e1de2d3c6d01ec810ff
+>>>>>>> parent of c903e67... Revert "Revert "Activity Page Complete""
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -758,7 +793,9 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
+<<<<<<< HEAD
     m_Folders:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     - Assets/Fonts
@@ -788,12 +825,26 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
 >>>>>>> parent of 9697cdb... push
+=======
+    - Assets/Scripts
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Scripts
+=======
+    m_Folders: []
+  m_ViewMode: 0
+  m_StartGridSize: 64
+  m_LastFolders: []
+>>>>>>> 6e023fb96bb02f68fc5f8e1de2d3c6d01ec810ff
+>>>>>>> parent of c903e67... Revert "Revert "Activity Page Complete""
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\mmger\OneDrive\Documents\GitHub\Applet\AppletUnity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -806,9 +857,15 @@ MonoBehaviour:
 >>>>>>> parent of 9697cdb... push
     m_ExpandedIDs: 00000000462d000000ca9a3b
 =======
+    m_SelectedIDs: de2d0000
+    m_LastClickedID: 11742
+    m_ExpandedIDs: 00000000422d000000ca9a3b
+>>>>>>> parent of c903e67... Revert "Revert "Activity Page Complete""
+=======
     m_SelectedIDs: 6a390000
     m_LastClickedID: 14698
     m_ExpandedIDs: ffffffff0000000038320000c4320000e0320000343300006433000000360000
+<<<<<<< HEAD
 >>>>>>> 1584bca907e7d738ced08b1f2766b3e171104eaf
 =======
     m_SelectedIDs: 642d0000
@@ -820,6 +877,9 @@ MonoBehaviour:
     m_LastClickedID: 11712
     m_ExpandedIDs: 00000000462d000000ca9a3b
 >>>>>>> parent of a8ec457... t
+=======
+>>>>>>> 6e023fb96bb02f68fc5f8e1de2d3c6d01ec810ff
+>>>>>>> parent of c903e67... Revert "Revert "Activity Page Complete""
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -846,6 +906,7 @@ MonoBehaviour:
   m_AssetTreeState:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 44}
     m_SelectedIDs: bc720000
 =======
@@ -856,6 +917,10 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
 >>>>>>> parent of a8ec457... t
+=======
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: fad7ffff
+>>>>>>> parent of c903e67... Revert "Revert "Activity Page Complete""
     m_LastClickedID: 0
     m_ExpandedIDs: 00000000462d000000ca9a3b
     m_RenameOverlay:
@@ -886,6 +951,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedInstanceIDs: c4490000
     m_LastClickedInstanceID: 18884
 =======
@@ -904,6 +970,10 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
 >>>>>>> parent of 9697cdb... push
+=======
+    m_SelectedInstanceIDs: fad7ffff
+    m_LastClickedInstanceID: -10246
+>>>>>>> parent of c903e67... Revert "Revert "Activity Page Complete""
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000000000000ca3b0000b2320000f82e000086310000
     m_RenameOverlay:
@@ -1042,8 +1112,8 @@ MonoBehaviour:
 =======
     width: 447
     height: 731
-  m_MinSize: {x: 277, y: 72}
-  m_MaxSize: {x: 4002, y: 4022}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 12}
 >>>>>>> 1584bca907e7d738ced08b1f2766b3e171104eaf
 =======
@@ -1101,6 +1171,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastInspectedObjectInstanceID: 18884
 =======
   m_LastInspectedObjectInstanceID: 29372
@@ -1114,6 +1185,9 @@ MonoBehaviour:
 =======
   m_LastInspectedObjectInstanceID: -1
 >>>>>>> parent of 9697cdb... push
+=======
+  m_LastInspectedObjectInstanceID: -10246
+>>>>>>> parent of c903e67... Revert "Revert "Activity Page Complete""
   m_LastVerticalScrollValue: 0
 --- !u!114 &17
 MonoBehaviour:
