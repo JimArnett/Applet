@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":522.2864379882813,"y":306.9808349609375,"z":-80.76055908203125},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":500.0180969238281,"orthographic":true}
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":548.6170043945313,"y":318.7478332519531,"z":-951.1854248046875},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":640.9929809570313,"orthographic":true}
 >>>>>>> 1584bca907e7d738ced08b1f2766b3e171104eaf
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":503.86767578125,"y":298.7492370605469,"z":-78.875},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":523.5791625976563,"orthographic":true}
+>>>>>>> parent of f0eef1f... Revert "Merge branch 'master' of https://github.com/JimArnett/Applet"
