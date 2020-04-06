@@ -1100,6 +1100,8 @@ MonoBehaviour:
   toggleObjectTwo: {fileID: 842432716}
   toggleObjectThree: {fileID: 642942837}
   toggleObjectFour: {fileID: 1278176966}
+  toggleObjectFive: {fileID: 1514992751}
+  toggleObjectSix: {fileID: 1695969682}
   objects:
   - {fileID: 2109514138}
   - {fileID: 842432716}
