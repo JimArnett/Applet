@@ -120,6 +120,84 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &74412896
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 74412897}
+  - component: {fileID: 74412899}
+  - component: {fileID: 74412898}
+  m_Layer: 5
+  m_Name: Body Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &74412897
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 74412896}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 280735178}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 1, y: -3.8}
+  m_SizeDelta: {x: 348, y: 126.4}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &74412898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 74412896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 16
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 1
+    m_MaxSize: 40
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'Game up! Escape the limits of being stuck at home, and explore a wide variety
+    of games and online activities which provide a boundless world. '
+--- !u!222 &74412899
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 74412896}
+  m_CullTransparentMesh: 0
 --- !u!1 &94722742
 GameObject:
   m_ObjectHideFlags: 0
@@ -327,7 +405,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &280735178
 RectTransform:
   m_ObjectHideFlags: 0
@@ -340,6 +418,11 @@ RectTransform:
   m_LocalScale: {x: 0.83072, y: 0.83072, z: 0.83072}
   m_Children:
   - {fileID: 1515041987}
+<<<<<<< HEAD
+  - {fileID: 74412897}
+=======
+  - {fileID: 1729366071}
+>>>>>>> parent of a8ec457... t
   - {fileID: 1722768679}
   - {fileID: 1927568775}
   m_Father: {fileID: 915251132}
@@ -347,8 +430,18 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_AnchoredPosition: {x: 0.025024414, y: 0.9100952}
+  m_SizeDelta: {x: -359.9, y: -205.8}
+=======
+  m_AnchoredPosition: {x: 0, y: 0.9100952}
+  m_SizeDelta: {x: -397.83, y: -208.05}
+>>>>>>> parent of f0eef1f... Revert "Merge branch 'master' of https://github.com/JimArnett/Applet"
+=======
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
+>>>>>>> parent of 9697cdb... push
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &280735179
 MonoBehaviour:
@@ -363,7 +456,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_Color: {r: 0.8745098, g: 0.99607843, b: 0.9111216, a: 0.85490197}
+=======
+  m_Color: {r: 0.8980392, g: 0.99607843, b: 0.8745098, a: 0.49803922}
+>>>>>>> parent of f0eef1f... Revert "Merge branch 'master' of https://github.com/JimArnett/Applet"
+=======
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+>>>>>>> parent of 9697cdb... push
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -473,6 +574,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panel: {fileID: 280735177}
+  Description: {fileID: 1729366069}
   winText: {fileID: 1515041988}
 --- !u!1 &915251128
 GameObject:
@@ -647,7 +749,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_Text: Activities List and Resources
+=======
+  m_Text: Activities List
+>>>>>>> parent of f0eef1f... Revert "Merge branch 'master' of https://github.com/JimArnett/Applet"
+=======
   m_Text: Activity List
+>>>>>>> parent of 9697cdb... push
 --- !u!222 &1100418278
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -844,7 +954,7 @@ GameObject:
   - component: {fileID: 1515041989}
   - component: {fileID: 1515041988}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Title Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -866,8 +976,18 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_AnchoredPosition: {x: 0.000038147, y: 84}
+  m_SizeDelta: {x: 255.45, y: 30}
+=======
+  m_AnchoredPosition: {x: -0.000025368, y: 88}
+  m_SizeDelta: {x: 227.4, y: 36}
+>>>>>>> parent of f0eef1f... Revert "Merge branch 'master' of https://github.com/JimArnett/Applet"
+=======
   m_AnchoredPosition: {x: 46, y: 188}
   m_SizeDelta: {x: 160, y: 30}
+>>>>>>> parent of 9697cdb... push
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1515041988
 MonoBehaviour:
@@ -888,8 +1008,18 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
+<<<<<<< HEAD
+<<<<<<< HEAD
+    m_Font: {fileID: 12800000, guid: b34a92a291541dc4daab02a8d19a9a94, type: 3}
+    m_FontSize: 25
+=======
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 20
+>>>>>>> parent of f0eef1f... Revert "Merge branch 'master' of https://github.com/JimArnett/Applet"
+=======
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 14
+>>>>>>> parent of 9697cdb... push
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
@@ -900,7 +1030,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: NAME OF ACTIVITY
 --- !u!222 &1515041989
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1039,11 +1169,19 @@ RectTransform:
   m_Children:
   - {fileID: 1825895344}
   m_Father: {fileID: 280735178}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_AnchoredPosition: {x: 194.1, y: 98.5}
+=======
+  m_AnchoredPosition: {x: 172, y: 91}
+>>>>>>> parent of f0eef1f... Revert "Merge branch 'master' of https://github.com/JimArnett/Applet"
+=======
   m_AnchoredPosition: {x: 379, y: 205}
+>>>>>>> parent of 9697cdb... push
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1722768680
@@ -1136,6 +1274,83 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1722768678}
   m_CullTransparentMesh: 0
+--- !u!1 &1729366068
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1729366071}
+  - component: {fileID: 1729366070}
+  - component: {fileID: 1729366069}
+  m_Layer: 5
+  m_Name: Description
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1729366069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1729366068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 1
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: New Text
+--- !u!222 &1729366070
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1729366068}
+  m_CullTransparentMesh: 0
+--- !u!224 &1729366071
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1729366068}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 280735178}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -3, y: 6}
+  m_SizeDelta: {x: 462.1, y: 222.6}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1784546049
 GameObject:
   m_ObjectHideFlags: 0
@@ -1439,12 +1654,22 @@ RectTransform:
   m_Children:
   - {fileID: 1100418276}
   m_Father: {fileID: 280735178}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_AnchoredPosition: {x: -0.0000038147, y: 43}
+  m_SizeDelta: {x: 223.2, y: 30}
+=======
+  m_AnchoredPosition: {x: -0.000022888, y: 29}
+  m_SizeDelta: {x: 160, y: 30}
+>>>>>>> parent of f0eef1f... Revert "Merge branch 'master' of https://github.com/JimArnett/Applet"
+=======
   m_AnchoredPosition: {x: -233.8, y: 31.400517}
   m_SizeDelta: {x: 160, y: 30}
+>>>>>>> parent of 9697cdb... push
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1927568776
 MonoBehaviour:
