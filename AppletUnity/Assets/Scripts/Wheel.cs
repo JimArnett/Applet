@@ -33,52 +33,41 @@ public class Wheel : MonoBehaviour
         timeInterval = 0.1f;
 
         for(int i = 0; i < randomValue; i++){
-            transform.Rotate(0,0,22.5f);
-            if(i > Mathf.RoundToInt(randomValue * 0.5f)){
-
-            }
-            if(i > Mathf.RoundToInt(randomValue * 0.85f)){
+            transform.Rotate(0,0,30f);
+            if(i > Mathf.RoundToInt(randomValue * 0.6f)){
 
             }
             yield return new WaitForSeconds(timeInterval);
         }
 
-        if (Mathf.RoundToInt(transform.eulerAngles.z) %45 != 0){
-            transform.Rotate(0,0,22.5f);
+        if (Mathf.RoundToInt(transform.eulerAngles.z) % 60 != 0){
+            transform.Rotate(0,0,30f);
         }
         finalAngle = Mathf.RoundToInt(transform.eulerAngles.z);
-
+        Debug.Log(finalAngle);
         switch(finalAngle){
             case 0:
-                winText.text = "ACTIVITY 1";
+                winText.text = "CREATE";
                 panel.gameObject.SetActive(true);
                 break;
-            case 45:
-                winText.text = "ACTIVITY 2";
+            case 60:
+                winText.text = "PRACTICE YOGA";
                 panel.gameObject.SetActive(true);
                 break;
-            case 90:
-                winText.text = "ACTIVITY 3";
-                panel.gameObject.SetActive(true);
-                break;
-            case 135:
-                winText.text = "ACTIVITY 4";
+            case 120:
+                winText.text = "PLAY A GAME";
                 panel.gameObject.SetActive(true);
                 break;
             case 180:
-                winText.text = "ACTIVITY 5";
+                winText.text = "MEDITATE";
                 panel.gameObject.SetActive(true);
                 break;
-            case 225:
-                winText.text = "ACTIVITY 6";
+            case 240:
+                winText.text = "VIDEO CHAT";
                 panel.gameObject.SetActive(true);
                 break;
-            case 270:
-                winText.text = "ACTIVITY 7";
-                panel.gameObject.SetActive(true);
-                break;
-            case 315:
-                winText.text = "ACTIVITY 8";
+            case 300:
+                winText.text = "GO OUTSIDE";
                 panel.gameObject.SetActive(true);
                 break;
         }
