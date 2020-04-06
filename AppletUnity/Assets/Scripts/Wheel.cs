@@ -35,20 +35,24 @@ public class Wheel : MonoBehaviour
         timeInterval = 0.1f;
 
         for(int i = 0; i < randomValue; i++){
-            transform.Rotate(0,0,30f);
-            if(i > Mathf.RoundToInt(randomValue * 0.6f)){
+            transform.Rotate(0,0,22.5f);
+            if(i > Mathf.RoundToInt(randomValue * 0.5f)){
+
+            }
+            if(i > Mathf.RoundToInt(randomValue * 0.85f)){
 
             }
             yield return new WaitForSeconds(timeInterval);
         }
 
-        if (Mathf.RoundToInt(transform.eulerAngles.z) % 60 != 0){
-            transform.Rotate(0,0,30f);
+        if (Mathf.RoundToInt(transform.eulerAngles.z) %45 != 0){
+            transform.Rotate(0,0,22.5f);
         }
         finalAngle = Mathf.RoundToInt(transform.eulerAngles.z);
-        Debug.Log(finalAngle);
+
         switch(finalAngle){
             case 0:
+<<<<<<< HEAD
                 winText.text = "CREATE";
                 Description.text = "Flex your creativity and brain function by making something. This can be a craft, DIY home project, or a digital project… anything that boosts your imagination!";
                 panel.gameObject.SetActive(true);
@@ -77,6 +81,37 @@ public class Wheel : MonoBehaviour
             case 300:
                 winText.text = "GO OUTSIDE";
                 Description.text = "Get some fresh air and vitamin D by going outside. This can be in your backyard or nearby park, as long as you remain a distance of 6 feet apart in public!";
+=======
+                winText.text = "ACTIVITY 1";
+                panel.gameObject.SetActive(true);
+                break;
+            case 45:
+                winText.text = "ACTIVITY 2";
+                panel.gameObject.SetActive(true);
+                break;
+            case 90:
+                winText.text = "ACTIVITY 3";
+                panel.gameObject.SetActive(true);
+                break;
+            case 135:
+                winText.text = "ACTIVITY 4";
+                panel.gameObject.SetActive(true);
+                break;
+            case 180:
+                winText.text = "ACTIVITY 5";
+                panel.gameObject.SetActive(true);
+                break;
+            case 225:
+                winText.text = "ACTIVITY 6";
+                panel.gameObject.SetActive(true);
+                break;
+            case 270:
+                winText.text = "ACTIVITY 7";
+                panel.gameObject.SetActive(true);
+                break;
+            case 315:
+                winText.text = "ACTIVITY 8";
+>>>>>>> parent of 1e772af... Wheel.cs adjustment
                 panel.gameObject.SetActive(true);
                 break;
         }
